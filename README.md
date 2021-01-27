@@ -1,7 +1,7 @@
 # Very short description of the package
 
 [![Latest Version on Packagist](https://img.shields.io/packagist/v/jmurphy/laravel-pascal.svg?style=flat-square)](https://packagist.org/packages/jmurphy/laravel-pascal)
-[![Build Status](https://img.shields.io/travis/jmurphy45/laravel-pascal/master.svg?style=flat-square)](https://travis-ci.org/jmurphy45/laravel-pascal)
+[![Build Status](https://img.shields.io/travis/jmurphy45/laravel-pascal/master.svg?style=flat-square)](https://travis-ci.com/jmurphy45/laravel-pascal)
 [![Quality Score](https://img.shields.io/scrutinizer/g/jmurphy45/laravel-pascal.svg?style=flat-square)](https://scrutinizer-ci.com/g/jmurphy45/laravel-pascal)
 [![Total Downloads](https://img.shields.io/packagist/dt/jmurphy/laravel-pascal.svg?style=flat-square)](https://packagist.org/packages/jmurphy/laravel-pascal)
 
