@@ -2,13 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3dbea590-16f1-4c10-9d5d-413ee39c93e1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/PascalModel.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/Models/TestPascal.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/PascalModelTest.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/laravel-pascal.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/laravel-pascal.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.phpunit.result.cache" beforeDir="false" afterPath="$PROJECT_DIR$/.phpunit.result.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/Models/TestPascal.php" beforeDir="false" afterPath="$PROJECT_DIR$/tests/Models/TestPascal.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/PascalModelTest.php" beforeDir="false" afterPath="$PROJECT_DIR$/tests/PascalModelTest.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -121,7 +119,7 @@
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="PHPUnit.PascalModelTest">
     <configuration name="PascalModelTest" type="PHPUnitRunConfigurationType" factoryName="PHPUnit" temporary="true">
       <CommandLine>
         <PhpTestInterpreterSettings>
@@ -129,6 +127,10 @@
         </PhpTestInterpreterSettings>
       </CommandLine>
       <TestRunner class="Jmurphy\LaravelPascal\Tests\PascalModelTest" file="$PROJECT_DIR$/tests/PascalModelTest.php" scope="Class" />
+      <method v="2" />
+    </configuration>
+    <configuration name="phpunit.xml.dist" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner scope="XML" />
       <method v="2" />
     </configuration>
     <recent_temporary>
@@ -146,7 +148,8 @@
       <option name="presentableId" value="Default" />
       <updated>1611712797090</updated>
       <workItem from="1611712798324" duration="571000" />
-      <workItem from="1611714190173" duration="993000" />
+      <workItem from="1611714190173" duration="1603000" />
+      <workItem from="1611716690943" duration="178000" />
     </task>
     <servers />
   </component>
@@ -158,22 +161,22 @@
       <screen x="1680" y="-661" width="1692" height="2985" />
     </state>
     <state x="2245" y="1245" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog/1680.-661.1692.2985/0.23.1680.961@1680.-661.1692.2985" timestamp="1611714469458" />
-    <state width="1603" height="253" key="GridCell.Tab.0.bottom" timestamp="1611714496859">
+    <state width="1603" height="253" key="GridCell.Tab.0.bottom" timestamp="1611715898094">
       <screen x="1680" y="-661" width="1692" height="2985" />
     </state>
-    <state width="1603" height="253" key="GridCell.Tab.0.bottom/1680.-661.1692.2985/0.23.1680.961@1680.-661.1692.2985" timestamp="1611714496859" />
-    <state width="1603" height="253" key="GridCell.Tab.0.center" timestamp="1611714496859">
+    <state width="1603" height="253" key="GridCell.Tab.0.bottom/1680.-661.1692.2985/0.23.1680.961@1680.-661.1692.2985" timestamp="1611715898094" />
+    <state width="1603" height="253" key="GridCell.Tab.0.center" timestamp="1611715898094">
       <screen x="1680" y="-661" width="1692" height="2985" />
     </state>
-    <state width="1603" height="253" key="GridCell.Tab.0.center/1680.-661.1692.2985/0.23.1680.961@1680.-661.1692.2985" timestamp="1611714496859" />
-    <state width="1603" height="253" key="GridCell.Tab.0.left" timestamp="1611714496858">
+    <state width="1603" height="253" key="GridCell.Tab.0.center/1680.-661.1692.2985/0.23.1680.961@1680.-661.1692.2985" timestamp="1611715898094" />
+    <state width="1603" height="253" key="GridCell.Tab.0.left" timestamp="1611715898093">
       <screen x="1680" y="-661" width="1692" height="2985" />
     </state>
-    <state width="1603" height="253" key="GridCell.Tab.0.left/1680.-661.1692.2985/0.23.1680.961@1680.-661.1692.2985" timestamp="1611714496858" />
-    <state width="1603" height="253" key="GridCell.Tab.0.right" timestamp="1611714496859">
+    <state width="1603" height="253" key="GridCell.Tab.0.left/1680.-661.1692.2985/0.23.1680.961@1680.-661.1692.2985" timestamp="1611715898093" />
+    <state width="1603" height="253" key="GridCell.Tab.0.right" timestamp="1611715898094">
       <screen x="1680" y="-661" width="1692" height="2985" />
     </state>
-    <state width="1603" height="253" key="GridCell.Tab.0.right/1680.-661.1692.2985/0.23.1680.961@1680.-661.1692.2985" timestamp="1611714496859" />
+    <state width="1603" height="253" key="GridCell.Tab.0.right/1680.-661.1692.2985/0.23.1680.961@1680.-661.1692.2985" timestamp="1611715898094" />
     <state x="2237" y="1216" key="NewPhpClassDialog" timestamp="1611714568791">
       <screen x="1680" y="-661" width="1692" height="2985" />
     </state>

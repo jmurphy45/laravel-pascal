@@ -14,8 +14,13 @@ use Illuminate\Support\Str;
 class TestPascal extends \Jmurphy\LaravelPascal\PascalModel
 {
     protected $fillable = ['Pascal'];
+    protected $appends = ['AddedPascal'];
 
     public function getTestPascalAttribute($value){
+        return "TEST";
+    }
+
+    public function getAddedPascalAttribute($value){
         return "TEST";
     }
 

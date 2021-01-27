@@ -41,4 +41,12 @@ class PascalModelTest extends TestCase
         $this->testModel->Pascal = 'test';
         $this->assertEquals("TEST",$this->testModel->Pascal);
     }
+
+    /** @test */
+    public function appended_pascal_attribute()
+    {
+        $data = $this->testModel->toArray();
+        $this->assertArrayHasKey('AddedPascal',$data);
+        $this->assertEquals("TEST",$this->testModel->AddedPascal);
+    }
 }
